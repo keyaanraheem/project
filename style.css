@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: purple;
+
+}
+
+b 
+{
+    float: left;
+}
+
+li img {
+    border-radius: 30px;
+
+}
+
+.test_image_and_result
+{
+    background-color: aqua;
+    padding: 40px;
+    border-radius: 30px;
+    margin-top: 50px;
+    box-shadow: 20px 20px 20px black;
+
+}
+
+.output
+{
+    color: black;
+}
+
+h4 {
+    color: black;
+}
+
